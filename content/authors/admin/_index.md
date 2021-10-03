@@ -28,15 +28,15 @@ organizations:
     url: https://www.iesve.com
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSC in Data Science, Technology and Innovation
+      institution: The University of Edinburgh
+      year: 1995
+    - course: Master in Sustainable Buildings
+      institution: Universitat de Barcelona
+      year: 2003
+    - course: "BSc in Civil Engineering "
+      institution: Instituto Tecnológico y de Estudios Superiores de Monterrey
+      year: 1997
 superuser: true
 highlight_name: true
 title: Adalberto Guerra Cabrera
