@@ -36,7 +36,7 @@ education:
       year: 2003
     - course: "BSc in Civil Engineering "
       institution: Instituto Tecnológico y de Estudios Superiores de Monterrey
-      year: 1997
+      year: 2013
 superuser: true
 highlight_name: true
 title: Adalberto Guerra Cabrera
